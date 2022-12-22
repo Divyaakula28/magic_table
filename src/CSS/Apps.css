@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+  }
+
+  .datebox{
+    display: inline-block;
+  }
+  .btn-wdth{
+    margin-top: 8px;
+    width:max-content;
+    height: 50px;
+  }
+
+  .forinput{
+    display: inline-block;
+    
+  }
+  .forbutton{
+    padding: 12px 20px;
+    margin: 8px 0;
+    border-radius: 0px 5px 5px 0px;
+    display: inline-block;
+    box-sizing: border-box;
+    font-size: 16px;
+  
+  }
+  .datearea{
+    background-color: #2980B9;
+  }
+  
+ 
+  

@@ -1,0 +1,22 @@
+.modaltitle{
+    background-color: #2980B9;
+    color: aliceblue;
+}
+.modal-body{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.modal-buttons{
+    margin-top: 5px;
+}
+.modal-buttons1{
+    margin-top: 25%;
+}
+.modal-buttons2{
+    margin-top: 5px;
+    margin-bottom: 25%;
+}
+closeButton{
+    color: aliceblue;
+}

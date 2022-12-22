@@ -1,5 +1,5 @@
 import React from 'react';
-import Second from './secondpage';
+import Second from './Components/secondpage';
 
 export default function Blogs(){
     return(

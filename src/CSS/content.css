@@ -1,0 +1,65 @@
+.content-container{
+    border-style:double;
+    
+    margin-top: 3%;
+}
+.subcontainer{
+    
+    border-radius: 2px;;
+    box-shadow:  15px 10px 18px  rgb(111, 108, 108),-5px -5px 18px rgb(111, 108, 108);;
+}
+.tabcontent{
+    border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  
+}
+.forcardtitle{
+    border-radius: 10px black;
+}
+.maincontainer{
+    margin-top: 5%;
+    margin-bottom: 15%;
+}
+.Cardheading{
+    background-color: #aad8f5;
+    border: none;
+    border-style: groove;
+    border-color: black;
+    border-bottom: none;
+    
+}
+.mainbody{
+    border-style: groove;
+    border-color:black;
+    border-top: none;
+}
+
+.headtext{
+    text-align: left;
+    color:#2980B9;
+    font-weight:700;
+    -webkit-text-stroke-width: 1.0px;
+    -webkit-text-stroke-color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.textstyling{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:initial;
+}
+.highlight{
+    font-size: larger;
+    font-weight: bolder;
+}
+.history{
+    color:#2980B9;
+}
+dfn{
+    background-color:black
+}
+.knowmore{
+    float: right;
+}
+

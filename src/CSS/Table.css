@@ -1,0 +1,120 @@
+.table{
+  margin-top: 5%;
+  justify-content: center;
+  align-items: center;
+  width:350px;
+  border-radius: 16px;
+  border-collapse:separate;
+  border:solid black 1px;
+  border-radius:6px;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+.td {
+  border: 1px solid blueviolet;
+  border-radius:6px;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 30px;
+  
+}
+.brdr{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: groove;
+    margin-bottom: 5%;
+  }
+  .nobrdr{
+    border: none;
+  }
+  .head{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
+    border-style: groove;
+  }
+  .GFG {
+    margin-top: 0px;
+    color: black;
+    -webkit-text-stroke-width: 1.0px;
+    -webkit-text-stroke-color:black;
+  }
+  .GFG2 {
+    margin-bottom: 20px;
+    border-style: none;
+    color: black;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color:black;
+    
+  }
+  .contentbox{
+    margin-top: auto;
+    margin-bottom: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+  .MN{
+    background-color: #7FB3D5;
+  }
+  .magicNum{
+    margin-top: 2%;
+    font-weight: bold;
+    text-align: left;
+    font-size:xx-large;
+    border-color: #ffffff;
+  }
+  .forbrdr{
+    width:fit-content;
+    
+  }
+  .showmore{
+    width: fit-content;
+    background-color: #ffffff;
+    border-style: none;
+    float: right;
+  }
+  span{
+    width:fit-content;
+    background-color:#dcdcdc;
+  }
+  .showcontainer{
+    margin: 10px 10px;
+    margin-bottom: 70px;
+  }
+ .Tableheading{
+  color:Black;
+  background-color: #A9CCE3;
+  border-bottom:solid black 2px ;
+  
+
+ }
+ .tablegrp{
+  margin-top: 5%;
+  justify-content: center;
+  align-items: center;
+  border:solid black 2px;
+  border-radius:6px;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+ .tdgrp {
+  border: 1px solid #A9CCE3;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;  
+}
+.datedisplay{
+  color:red;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.magicnumber{
+  text-align: center;
+  margin-top: 25px;
+  
+}
